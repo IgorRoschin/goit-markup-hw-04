@@ -98,10 +98,6 @@ ul
   display: flex;
 }
 
-.contacts-link-header {
-
-}
-
 .nav-photo .list {
   list-style: none;
 }
@@ -462,6 +458,10 @@ margin-top: 94px;
   box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.12), 0px 4px 4px rgba(0, 0, 0, 0.06), 1px 4px 6px rgba(0, 0, 0, 0.16);
 }
 
+.contacts-link-header:hover {
+  color: #2196F3;
+}
+
 .staff {
 }
 
@@ -572,6 +572,8 @@ margin-top: 94px;
   align-items: center;
 
 }
+
+
 
 .contacts-link-header:hover,
 .contacts-link-header:focus{
